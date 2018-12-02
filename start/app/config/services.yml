@@ -38,4 +38,4 @@ services:
         class: AppBundle\Service\MessageGenerator
         arguments:
             - ['We are *never* going to figure this out', 'Why even try again?', 'Facepalm']
-        public: true    
+        public: true
